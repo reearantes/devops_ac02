@@ -1,5 +1,5 @@
 Nome: Renae Arantes Lourenco  
-RA: 1902853 
+RA: 1902853  
 1 - Criando um repositório via interface web(print1)  
 2 - Mostrando com o comando ls o diretório vazio(print2)  
 3 - Criando um clone do repositório(print3)  
